@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Demo](https://fe-interactive-rating-iytnfop3v-windate3411.vercel.app/)
+- Live Site URL: [Demo](https://meet-landing-page-eosin.vercel.app)
 
 ## My process
 
